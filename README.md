@@ -1,5 +1,5 @@
 ![Purple and Pink Playful Pop of Color Art  Design Logo](https://user-images.githubusercontent.com/60568574/153010554-7f89722a-de33-45aa-83f7-78804ff07de8.gif)
-
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FRohitAbhishek7
 <br>
 <h1> 👋 Hi, I’m Rohit Abhishek </h1>
 <p>- 👀 I’m interested in Coding, Software development. </p>
