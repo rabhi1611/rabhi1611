@@ -1,4 +1,4 @@
-<h1 align = "center"> 👋 Hi, I’m Rohit Abhishek <h1>
+<h1 align = "center"> 👋 Hi, I’m Rohit Abhishek </h1>
 <p>- 👀 I’m interested in Coding, Software development. </p>
 
 
