@@ -6,8 +6,8 @@
 <h1> 👋 Hi, I’m Rohit Abhishek </h1>
 <br>
 <p>- Ambitious to kick start the career with globally recognized
-organization which will give me global exposure to enhance my
-skills and knowledge for mutual benefits of the organization.
+     organization which will give me global exposure to enhance my
+     skills and knowledge for mutual benefits of the organization.
 </p>
 <p>- 👀 Python Developer and C++ Programmer.</p>
 
