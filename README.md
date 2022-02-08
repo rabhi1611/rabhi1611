@@ -1,8 +1,5 @@
-- <h1 align = "center"> 👋 Hi, I’m Rohit Abhishek <h1>
-- 👀 I’m interested in Coding, Software development.
-- 🌱 I’m currently learning Full Stack web developemnt.
-- 💞️ I’m looking to collaborate on linkedin: https://www.linkedin.com/in/rohit-abhishek-422808194/
-- 📫 Reach me through LinkedIn!
+<h1 align = "center"> 👋 Hi, I’m Rohit Abhishek <h1>
+<p>- 👀 I’m interested in Coding, Software development. </p>
 
 
 
