@@ -38,11 +38,11 @@ const badri = {
 #### Popular Projects
 <a href="https://github.com/rabhi1611/rohit-portfolio-django">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rabhi1611&repo=blog_App&theme=onedark" />
 </a>    
 <a href="https://github.com/rabhi1611/blog_App">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=onedark"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rabhi1611&repo=rohit-portfolio-django&theme=onedark"/>
 </a>
 
 ------
