@@ -18,7 +18,7 @@
 ```javascript
 const badri = {
   pronouns: "He" | "Him",
-  code: ["Python", "HTML", "CSS", "C++"],
+  code: ["Javascript", "HTML", "CSS", "C++"],
   askMeAbout: ["web dev", "backend dev", "NodeJS", "django", "C++"],
   technologies: {
       frontend: ["HTML", "CSS","Bootstrap", "Vanilla Javascript"],
