@@ -4,12 +4,12 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Back+end+developer;I'm+a+competitive+programmer;I'm+a+Django+developer" /></a>
 </p>
-<p>I am a back-end developer, I'm a Competitive Programmer, I also like to create projects in Django.</p>
+<p>I am a back-end developer, I also like to create projects in Django, NodeJs using Express.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
   <li>👋 Hi, I’m @rabhi1611</li>
-  <li>❤️ I love Creating projects in Django and Programming in C++.</li>
-  <li>🌱 I’m currently learning Web Development, C++, Python, and JS.</li>
+  <li>❤️ I love Creating projects in Django, NodeJs and Programming in C++.</li>
+  <li>🌱 I’m currently learning Web Development, C++, NodeJs, and MongoDB.</li>
   <li>💼 I'm a back end developer at BDCoE.</li>
   <li>🧐 Portfolio Website, http://rohitabhishek-portfolio.herokuapp.com/</li>
 </ul>
@@ -19,10 +19,10 @@
 const badri = {
   pronouns: "He" | "Him",
   code: ["Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "backend dev", "python", "django", "C++"],
+  askMeAbout: ["web dev", "backend dev", "NodeJS", "django", "C++"],
   technologies: {
-      frontend: ["HTML", "CSS","Bootstrap"],
-      backend: ["Django"],
+      frontend: ["HTML", "CSS","Bootstrap", "Vanilla Javascript"],
+      backend: ["Django", "NodeJs", "Express"],
   }
 }
 ```
