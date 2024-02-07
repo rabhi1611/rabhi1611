@@ -8,9 +8,8 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
   <li>👋 Hi, I’m @rabhi1611</li>
-  <li>❤️ I love Creating projects in Django, NodeJs and Programming in C++.</li>
-  <li>🌱 I’m currently learning Web Development, C++, NodeJs, and MongoDB.</li>
-  <li>💼 I'm a back end developer at BDCoE.</li>
+  <li>❤️ Love Creating projects using Java Spring-Boot</li>
+  <li>🌱 SDE @ Caterpillar Inc.</li>
   <li>🧐 Portfolio Website, http://rohitabhishek-portfolio.herokuapp.com/</li>
 </ul>
 
@@ -18,11 +17,10 @@
 ```javascript
 const badri = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "backend dev", "NodeJS", "django", "C++"],
+  code: ["Java"],
+  askMeAbout: ["web dev", "backend dev", "Java", "Spring-Boot"],
   technologies: {
-      frontend: ["HTML", "CSS","Bootstrap", "Vanilla Javascript"],
-      backend: ["Django", "NodeJs", "Express"],
+      backend: ["Spring-Boot"],
   }
 }
 ```
