@@ -10,12 +10,12 @@
 
 #### A little more about me
 ```javascript
-const badri = {
+const information = {
   pronouns: "He" | "Him",
   code: ["Java"],
-  askMeAbout: ["web dev", "backend dev", "Java", "Spring-Boot"],
+  askMeAbout: ["Backend", "API's", "Java", "Spring-Boot"],
   technologies: {
-      backend: ["Spring-Boot"],
+      backend: ["Spring Framework"],
   }
 }
 ```
