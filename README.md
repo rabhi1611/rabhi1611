@@ -4,8 +4,7 @@
 <ul>
   <li>👋 Hi, I’m @rabhi1611</li>
   <li>❤️ Love Creating projects using Java Spring-Boot</li>
-  <li>🌱 SDE @ Caterpillar Inc.</li>
-  <li>🧐 Portfolio Website, http://rohitabhishek-portfolio.herokuapp.com/</li>
+  <li>🌱 Engineer @ Caterpillar Inc.</li>
 </ul>
 
 #### A little more about me
@@ -27,14 +26,4 @@ const information = {
  > 
 > 🔑 10+ Contribution in Public Repos
  > 
-
-#### Popular Projects
-<a href="https://github.com/rabhi1611/rohit-portfolio-django">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rabhi1611&repo=blog_App&theme=onedark" />
-</a>    
-<a href="https://github.com/rabhi1611/blog_App">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rabhi1611&repo=rohit-portfolio-django&theme=onedark"/>
-</a>
 
