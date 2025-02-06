@@ -2,9 +2,9 @@
   <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Rohit Abhishek</a>'s Profile 👋</h1>
 </p>
 <ul>
-  <li>👋 Hi, I’m @rabhi1611</li>
-  <li>❤️ Love Creating projects using Java Spring-Boot</li>
-  <li>🌱 Engineer @ Caterpillar Inc.</li>
+  <li>👋 Hi, I’m Rohit Abhishek</li>
+  <li>❤️ Love Creating microservices using tools like Java, Spring-Boot, Docker, AWS, etc</li>
+  <li>🌱 Backend Engineer @ Caterpillar Inc.</li>
 </ul>
 
 #### A little more about me
@@ -12,18 +12,18 @@
 const information = {
   pronouns: "He" | "Him",
   code: ["Java"],
-  askMeAbout: ["Backend", "API's", "Java", "Spring-Boot"],
+  askMeAbout: ["Backend", "REST APIs", "Java", "Spring-Boot", "Docker", "Maven", "JUnit", "CI/CD", "Yaml", "Design Patterns"],
   technologies: {
-      backend: ["Spring Framework"],
+      backend: ["Spring Framework", "Containerization", "AWS S3", "AWS Lambda", "AWS Cloudformation", "AWS CloudWatch"],
   }
 }
 ```
 
-#### My GitHub Data :octocat:
-> 🏆 400+ Contributions in the Year 2022
+#### My GitHub Data :
+> 🏆 400+ Contributions since 2022
  > 
-> 📜 800+ Commits on GitHub
+> 📜 1K+ Commits on GitHub
  > 
-> 🔑 10+ Contribution in Public Repos
+> 🔑 10+ Contributions in Public Repos
  > 
 
