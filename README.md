@@ -3,6 +3,7 @@
 </p>
 <ul>
   <li>👋 Hi, I’m Rohit Abhishek</li>
+  <li>📍Bengaluru, India</li>
   <li>❤️ Love Creating microservices using tools like Java, Spring-Boot, Docker, AWS, etc</li>
   <li>🌱 Backend Engineer @ Caterpillar Inc.</li>
 </ul>
