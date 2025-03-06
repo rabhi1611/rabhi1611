@@ -10,7 +10,7 @@
 
 #### A little more about me
 ```javascript
-const information = {
+const information = {f
   pronouns: "He" | "Him",
   code: ["Java"],
   askMeAbout: ["Backend", "REST APIs", "Java", "Spring-Boot", "Docker", "Maven", "JUnit", "CI/CD", "Yaml", "Design Patterns"],
